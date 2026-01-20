@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-hospitality-ui",
+  "version": "0.1.0",
+  "description": "WebWaka hospitality suite - ui",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
